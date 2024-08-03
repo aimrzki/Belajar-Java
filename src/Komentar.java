@@ -4,7 +4,10 @@ public class Komentar {
     }
 
     /*
-    Method untuk menjumlahkan 2 bilangan
+        *Method untuk menjumlahkan 2 bilangan
+        * @param value1 bilangan pertama
+        * @param value2 bilangan kedua
+        * @return hasil penjumlahan value1 dan value2
      */
 
     static int sum(int value1, int value2){
