@@ -3,12 +3,6 @@ public class RecursiveMethod {
         System.out.println(factorialRecursive(5));
     }
 
-
-    static int factorialLoop (int value) {
-        var result = 1;
-        for (var counter = 1;counter<=value;counter++)
-    }
-
     static int factorialRecursive (int value){
         if (value==1){
             return 1;
